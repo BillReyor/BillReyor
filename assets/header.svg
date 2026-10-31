@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Bill Reyor</title>
+  <desc id="desc">Security, AI, and automation. A navy banner with a teal network motif.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c2b"/>
+      <stop offset="1" stop-color="#172c3b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55e0c0"/>
+      <stop offset="1" stop-color="#6bb8dd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="18" fill="url(#background)"/>
+  <path d="M0 284H1280" stroke="#284455" stroke-width="1"/>
+  <rect x="64" y="65" width="50" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="60" y="157" fill="#f4f8fb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-2">Bill Reyor</text>
+  <text x="64" y="214" fill="#b9ccd5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="28" letter-spacing="1">SECURITY  /  AI  /  AUTOMATION</text>
+  <g fill="none" stroke="#446b7b" stroke-width="2" opacity=".6">
+    <path d="M855 78L976 54L1104 111L1198 68M855 78L900 174L1026 220L1104 111L1198 223M900 174L1104 111M976 54L1026 220M1104 111L1198 68M1026 220L1198 223"/>
+    <circle cx="1104" cy="111" r="63" stroke="#366574" opacity=".5"/>
+    <circle cx="1104" cy="111" r="97" stroke="#366574" opacity=".35"/>
+  </g>
+  <g fill="#1a3443" stroke="#6f9aaa" stroke-width="2">
+    <circle cx="855" cy="78" r="6"/>
+    <circle cx="976" cy="54" r="6"/>
+    <circle cx="900" cy="174" r="6"/>
+    <circle cx="1026" cy="220" r="6"/>
+    <circle cx="1198" cy="68" r="6"/>
+    <circle cx="1198" cy="223" r="6"/>
+  </g>
+  <circle cx="1104" cy="111" r="12" fill="#64dfc5"/>
+  <circle cx="1104" cy="111" r="22" fill="none" stroke="#64dfc5" stroke-opacity=".3" stroke-width="2"/>
+</svg>
